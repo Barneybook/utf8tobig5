@@ -1,0 +1,1 @@
+A Javascript which encode utf8 to big5
